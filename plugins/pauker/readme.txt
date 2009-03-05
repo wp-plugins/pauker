@@ -1,4 +1,4 @@
-=== Custom Meta ===
+=== Pauker ===
 Contributors: Moe
 Donate link: www.mysse.net/
 Tags: widget, pauker, vocabulary
