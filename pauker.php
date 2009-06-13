@@ -3,7 +3,7 @@
 Plugin Name: Pauker
 Plugin URI: http://www.mysse.net/
 Description: This plugin adds a widget that will show a random flash card from a Pauker card set. There's also a widget that shows the statistics of the current Pauker card set. See http://pauker.sourceforge.net/ for more details on Pauker by Ronny Standke
-Version: 1.0
+Version: 1.1
 Author: moe
 Author URI: http://www.mysse.net/
 */
