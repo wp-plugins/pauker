@@ -14,11 +14,49 @@ msgstr ""
 "X-Poedit-Basepath: \n"
 "X-Poedit-SearchPath-0: ."
 
-#: pauker.php:104
+#: pauker-widget.php:34
+#: paukerstats-widget.php:54
 msgid "Title:"
 msgstr "Titel:"
 
-#: pauker.php:105
-msgid "Upload Pauker File"
-msgstr "Paukerdatei hochladen"
+#: paukerstats-widget.php:30
+msgid "words"
+msgstr "Wörter"
+
+#: paukerstats-widget.php:31
+msgid "learned"
+msgstr "gelernt"
+
+#: paukerstats-widget.php:32
+msgid "expired"
+msgstr "abgelaufen"
+
+#: paukerstats-widget.php:33
+msgid "not learned"
+msgstr "ungelernt"
+
+#: pauker-admin.php:11
+msgid "Upload failed."
+msgstr "Upload fehlgeschlagen."
+
+#: pauker-admin.php:15
+#: pauker-admin.php:20
+msgid "Not a valid file."
+msgstr "Ungültige Datei."
+
+#: pauker-admin.php:41
+msgid "Pauker file:"
+msgstr "Pauker Datei:"
+
+#: pauker-admin.php:1
+msgid "Pauker Settings"
+msgstr "Pauker Einstellungen"
+
+#: pauker-admin.php:45
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: pauker-admin.php:26
+msgid "Changes saved."
+msgstr "Änderungen gespeichert."
 
